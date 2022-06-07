@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Gaseosa Manaos",
+		"price": 123.45,
+		"thumbnail": "https://www.manaosargentina.com.ar/images/productos/cola/MANAOS-COLA-2,25LTS.jpg",
+		"id": 1
+	},
+	{
+		"title": "Gaseosa Fanta",
+		"price": 234.56,
+		"thumbnail": "https://jumboargentina.vtexassets.com/arquivos/ids/614440-800-600?v=637409202160630000&width=800&height=600&aspect=true",
+		"id": 2
+	},
+	{
+		"title": "Gaseosa Pritty",
+		"price": 120.23,
+		"thumbnail": "https://jumboargentina.vtexassets.com/arquivos/ids/339438/Pritty-LimOn-15-L-1-236731.jpg?v=636393804479000000",
+		"id": 3
+	}
+]
